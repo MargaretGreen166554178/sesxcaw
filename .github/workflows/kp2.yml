@@ -1,5 +1,5 @@
 
-name: CI1
+name: WK1
 
 on:
   workflow_dispatch:
