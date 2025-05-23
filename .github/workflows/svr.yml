@@ -1,4 +1,4 @@
-name: Runner
+name: SVR
 on:
   workflow_dispatch:
       
