@@ -1,5 +1,5 @@
 
-name: CI2
+name: WK2
 
 on:
   workflow_dispatch:
